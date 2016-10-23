@@ -1,5 +1,5 @@
 # hello-world
 Hello git
-add some text
+update some text
 add abc
 add def
